@@ -1,5 +1,3 @@
-
-
 const PopularTags = () => {
   return (
     <div className="popular-tags">
